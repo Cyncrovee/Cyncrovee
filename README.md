@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Cyncrovee
+- My pronouns: She/Her
+- Contact me: Cyncrovee@proton.me
 
 <!--
 **Cyncrovee/Cyncrovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
