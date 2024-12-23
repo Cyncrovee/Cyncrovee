@@ -1,6 +1,11 @@
 # Hi, I'm Cyncrovee
-- My pronouns: She/Her
+- Pronouns: She/Her
 - Contact me: Cyncrovee@proton.me
+
+I primarily make desktop GUI apps and misc CLI tools
+My current main projects are:
+- Enviredit
+- CynVee-Hash-Checker (CLI)
 
 <!--
 **Cyncrovee/Cyncrovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
