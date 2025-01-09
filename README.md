@@ -6,6 +6,7 @@ I primarily make desktop GUI apps and misc CLI tools.
 
 My current main projects are:
 - Enviredit
+- Recoilless-Editor
 - CynVee-Hash-Checker (CLI)
 
 <!--
