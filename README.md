@@ -1,13 +1,14 @@
 # Hi, I'm Cyncrovee
 - Pronouns: She/Her
-- Contact me: Cyncrovee@proton.me
+- Contact me: Cyncrovee@yahoo.com
 
 I primarily make desktop GUI apps and misc CLI tools.
 
 My current main projects are:
+- Collapse-Utils
+- Collapse-Shell
 - Enviredit
 - Recoilless-Editor
-- CynVee-Hash-Checker (CLI)
 
 <!--
 **Cyncrovee/Cyncrovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
