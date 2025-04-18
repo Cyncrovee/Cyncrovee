@@ -1,5 +1,3 @@
-![A rectangular banner image with a pink to light pink gradient for the background, and white stars dotted about the scene](assets/Banner.png "Banner Image")
-
 # Hi, I'm Cyncrovee! :3
 
 - 20, She/Her
@@ -13,3 +11,5 @@
 
 ## Donating
 If you like my work and want to support me, consider donating at https://ko-fi.com/cyncrovee
+
+![A rectangular banner image with a pink to light pink gradient for the background, and white stars dotted about the scene](assets/Banner.png "Banner Image")
