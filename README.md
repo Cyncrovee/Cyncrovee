@@ -6,6 +6,7 @@
 
 ## Current Main Projects:
 - CryptumText: A text/code editor written in Rust with Relm4/GTK4
+- Unbox-EMC: An opinionated Emacs distribution
 - Collapse-Utils: A selection of "utils" inspired by GNU Coreutils/ Uutils Coreutils, written in Rust
 - Collapse-Shell: An interactive shell written in Rust
 
