@@ -1,6 +1,6 @@
 # Hi, I'm Cyncrovee! :3
 
-- 20, She/Her
+- 21, She/Her
 - UK based programmer
 - My website: https://cyncrovee.neocities.org/
 > NOTE: Most of my projects are now developed on my [Codeberg Page](https://codeberg.org/Cyncrovee).
