@@ -3,7 +3,8 @@
 - 21, She/Her
 - UK based programmer
 - My website: https://cyncrovee.neocities.org/
-> NOTE: Most of my projects are now developed on my [Codeberg Page](https://codeberg.org/Cyncrovee).
+> [!NOTE]
+> Most of my projects are now developed on my [Codeberg Page](https://codeberg.org/Cyncrovee), please see there for the majority of my work.
 
 ## Donating
 If you like my work and want to support me, consider donating at https://ko-fi.com/cyncrovee
